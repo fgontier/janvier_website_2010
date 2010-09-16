@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<work>
+	<title1><![CDATA[]]></title1>
+	<title2><![CDATA[]]></title2>
+	<title3><![CDATA[WORK]]></title3>
+
+	<item>
+		<title1><![CDATA[www.gsabrie.com]]></title1>
+		<title2><![CDATA[Flash web site]]></title2>
+		<title3><![CDATA[]]></title3>
+		<description><![CDATA[XML driven photography web site created using the Gaia Framework, Tweenlite for the animations, Google Analytics and BaseUI for the liquid layout. The full screen photo galeries can be easily updated with an xml file by the photographer.<br><br><font color='#FF0000'>Roles:</font><br>Concept & design<br>AS3 development<br><br><font color='#FF0000'><a href="http://github.com" target="_new">Github source code:</a></font>]]></description>
+		<small_thumbnail>work/gsabrie/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/gsabrie/large_tmb.jpg</large_thumbnail>
+		<url>http://www.gsabrie.com</url>
+		<date>2010-05-31</date>
+	</item>
+	
+	<item>
+		<title1><![CDATA[Lenovo]]></title1>
+		<title2><![CDATA[Flash banners]]></title2>
+		<title3><![CDATA[Agency: Capstrat]]></title3>
+		<description><![CDATA[Creation of banners for several Lenovo add campagns.<br>Each banner was resized according to the specifications from the client.<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
+		<small_thumbnail>work/lenovo/small_tmb.gif</small_thumbnail>
+		<large_thumbnail>work/lenovo/large_tmb.gif</large_thumbnail>
+		<url></url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Lenovo: Night Vision campagn]]></title>
+				<description><![CDATA[300x250 - 32KB]]></description>
+				<thumbnail>work/lenovo/gallery/night_vision_tmb.jpg</thumbnail>
+				<largeView type="flash" file="work/lenovo/gallery/night_vision_300x250.swf"/>
+			</item>
+			<item>
+				<title><![CDATA[Lenovo: Identity Lock campagn]]></title>
+				<description><![CDATA[180x150 - 32KB]]></description>
+				<thumbnail>work/lenovo/gallery/identity_lock_tmb.gif</thumbnail>
+				<largeView type="flash" file="work/lenovo/gallery/identity_lock_180x150.swf"/>
+			</item>
+			<item>
+				<title><![CDATA[Lenovo: liquid Shield campagn]]></title>
+				<description><![CDATA[300x250 - 28KB]]></description>
+				<thumbnail>work/lenovo/gallery/liquid_shield_tmb.jpg</thumbnail>
+				<largeView type="flash" file="work/lenovo/gallery/liquishield_300x250.swf"/>
+			</item>
+			<item>
+				<title><![CDATA[Lenovo: Camera campagn]]></title>
+				<description><![CDATA[728x90 - 32KB]]></description>
+				<thumbnail>work/lenovo/gallery/camera_tmb.jpg</thumbnail>
+				<largeView type="flash" file="work/lenovo/gallery/camera_728x90.swf"/>
+			</item>
+			<item>
+				<title><![CDATA[Lenovo: All Power campagn]]></title>
+				<description><![CDATA[728x90 - 16KB]]></description>
+				<thumbnail>work/lenovo/gallery/all_power_tmb.gif</thumbnail>
+				<largeView type="flash" file="work/lenovo/gallery/all_power_728x90.swf"/>
+			</item>
+		</gallery>
+	</item>
+
+	<item>
+		<title1><![CDATA[DataFlux]]></title1>
+		<title2><![CDATA[Flash banners]]></title2>
+		<title3><![CDATA[Agency: Capstrat]]></title3>
+		<description><![CDATA[Creation of banners for DataFlux add campagns.<br>Each link is pulled from a text file in a flash variable (flashVars).<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
+		<small_thumbnail>work/dataflux/small_tmb.gif</small_thumbnail>
+		<large_thumbnail>work/dataflux/large_tmb.jpg</large_thumbnail>
+		<url></url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[DataFlux: banner 1]]></title>
+				<description><![CDATA[768x203 - 97KB]]></description>
+				<thumbnail>work/dataflux/gallery/dataflux1_tmb.jpg</thumbnail>
+				<largeView type="flash" file="work/dataflux/gallery/DataFlux_A.swf"/>
+			</item>
+			<item>
+				<title><![CDATA[DataFlux: banner 2]]></title>
+				<description><![CDATA[768x203 - 120KB]]></description>
+				<thumbnail>work/dataflux/gallery/dataflux2_tmb.jpg</thumbnail>
+				<largeView type="flash" file="work/dataflux/gallery/DataFlux_B.swf"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[The Living Balance Sheet]]></title1>
+		<title2><![CDATA[Flash/FLEX applications]]></title2>
+		<title3><![CDATA[Client: Globalworks]]></title3>
+		<description><![CDATA[Several projects for "The Living Balance Sheet" including a flash billboard communicating with the HTML top menu via javascript on the website, 3 calculators created in Flex and a dynamic implementation of the Flowplayer playlist vith xml files, Mp4 streaming videos and flash movies.<br><br><font color='#FF0000'>Roles:</font><br>AS3 development]]></description>
+		<small_thumbnail>work/theLivingBalanceSheet/small_tmb.png</small_thumbnail>
+		<large_thumbnail>work/theLivingBalanceSheet/large_tmb.jpg</large_thumbnail>
+		<url></url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Mortgage calculator]]></title>
+				<description><![CDATA[Flex application using the amCharts library]]></description>
+				<thumbnail>work/theLivingBalanceSheet/gallery/401k.jpg</thumbnail>
+				<largeView type="url" link="work/theLivingBalanceSheet/gallery/401k/401k.html"/>
+			</item>
+			<item>
+				<title><![CDATA[Earnings potential calculator]]></title>
+				<description><![CDATA[Flex application using the amCharts library]]></description>
+				<thumbnail>work/theLivingBalanceSheet/gallery/earnings_potential.jpg</thumbnail>
+				<largeView type="url" link="work/theLivingBalanceSheet/gallery/earnings_potential/earnings_potential.html"/>
+			</item>
+			<item>
+				<title><![CDATA[Mortgage calculator]]></title>
+				<description><![CDATA[Flex application using the amCharts library]]></description>
+				<thumbnail>work/theLivingBalanceSheet/gallery/15-30_Mortgage.jpg</thumbnail>
+				<largeView type="url" link="work/theLivingBalanceSheet/gallery/15-30_Mortgage/15-30_Mortgage.html"/>
+			</item>
+			<item>
+				<title><![CDATA[Flash billboard]]></title>
+				<description><![CDATA[Top menu bar and flash communication with javascript]]></description>
+				<thumbnail>work/theLivingBalanceSheet/gallery/website.jpg</thumbnail>
+				<largeView type="url" link="http://www.thelivingbalancesheet.com/"/>
+			</item>
+			<item>
+				<title><![CDATA[FlowPlayer implementation]]></title>
+				<description><![CDATA[Dynamic playlist loading mp4 videos and xml driven flash movies]]></description>
+				<thumbnail>work/theLivingBalanceSheet/gallery/flowplayer.jpg</thumbnail>
+				<largeView type="url" link="work/theLivingBalanceSheet/gallery/flowPlayer/flowPlayer.html"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[Ernst&Young: Moneyopolis]]></title1>
+		<title2><![CDATA[Flash application]]></title2>
+		<title3><![CDATA[Agency: Globalworks]]></title3>
+		<description><![CDATA[A site created for children in grades 6-8 to teach basic financial planning concepts, providing tools and programs to assist the education community in enhancing basic skills in math, financial planning, decision-making (logic), reading, and computer use. The project centers around a financial planning game based on a five-step process: assessment, goal setting, strategy setting, implementation, and review/adjust. The game incorporates a "virtual city" in which children move through various financial planning centers, managing money and working toward defined goals.]]></description>
+		<small_thumbnail>work/moneyopolis/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/moneyopolis/large_tmb.jpg</large_thumbnail>
+		<url></url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Home Sweet Home]]></title>
+				<description><![CDATA[radio buttons answers]]></description>
+				<thumbnail>work/moneyopolis/gallery/home_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/moneyopolis/gallery/home_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Workplace]]></title>
+				<description><![CDATA[drag and drop answers]]></description>
+				<thumbnail>work/moneyopolis/gallery/workplace_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/moneyopolis/gallery/workplace_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Try Again]]></title>
+				<description><![CDATA[wrong answer]]></description>
+				<thumbnail>work/moneyopolis/gallery/try_again_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/moneyopolis/gallery/try_again_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[End]]></title>
+				<description><![CDATA[dynamic newspaper]]></description>
+				<thumbnail>work/moneyopolis/gallery/end_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/moneyopolis/gallery/end_img.jpg"/>
+			</item>			
+			<item>
+				<title><![CDATA[Demo]]></title>
+				<description><![CDATA[flash demo]]></description>
+				<thumbnail>work/moneyopolis/gallery/demo_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/moneyopolis/gallery/moneyopolis.mp4"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[www.protobrand.com]]></title1>
+		<title2><![CDATA[Flash web site]]></title2>
+		<title3><![CDATA[]]></title3>
+		<description><![CDATA[The experience, portfolio and bio sections are updated with xml files]]></description>
+		<small_thumbnail>work/protobrand/small_tmb.gif</small_thumbnail>
+		<large_thumbnail>work/protobrand/large_tmb.gif</large_thumbnail>
+		<url>work/protobrand/web/index.html</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Protobrand]]></title>
+				<description><![CDATA[Home page]]></description>
+				<thumbnail>work/protobrand/gallery/protobrand_1_tmb.gif</thumbnail>
+				<largeView type="image" file="work/protobrand/gallery/protobrand_1_img.gif"/>
+			</item>
+			<item>
+				<title><![CDATA[Protobrand]]></title>
+				<description><![CDATA[About us]]></description>
+				<thumbnail>work/protobrand/gallery/protobrand_2_tmb.gif</thumbnail>
+				<largeView type="image" file="work/protobrand/gallery/protobrand_2_img.gif"/>
+			</item>
+			<item>
+				<title><![CDATA[Protobrand]]></title>
+				<description><![CDATA[Portfolio]]></description>
+				<thumbnail>work/protobrand/gallery/protobrand_3_tmb.gif</thumbnail>
+				<largeView type="image" file="work/protobrand/gallery/protobrand_3_img.gif"/>
+			</item>
+			<item>
+				<title><![CDATA[Protobrand]]></title>
+				<description><![CDATA[Bio]]></description>
+				<thumbnail>work/protobrand/gallery/protobrand_4_tmb.gif</thumbnail>
+				<largeView type="image" file="work/protobrand/gallery/protobrand_4_img.gif"/>
+			</item>	
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[American Red Cross]]></title1>
+		<title2><![CDATA[Flash ineractive CDrom]]></title2>
+		<title3><![CDATA[Agency: Globalworks]]></title3>
+		<description><![CDATA[Project 5 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<small_thumbnail>work/red_cross/small_tmb.png</small_thumbnail>
+		<large_thumbnail>work/red_cross/large_tmb.png</large_thumbnail>
+		<url>work/red_cross/gallery/Sept_2009_Greater_NY_with_links/red_cross.html</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[First aid kit]]></title>
+				<description><![CDATA[English]]></description>
+				<thumbnail>work/red_cross/gallery/firstAid_english.png</thumbnail>
+				<largeView type="image" file="work/red_cross/gallery/firstAid_english.png"/>
+			</item>
+			<item>
+				<title><![CDATA[Make a plan]]></title>
+				<description><![CDATA[Spanish]]></description>
+				<thumbnail>work/red_cross/gallery/makeAplan_spanish.png</thumbnail>
+				<largeView type="image" file="work/red_cross/gallery/makeAplan_spanish.png"/>
+			</item>
+			<item>
+				<title><![CDATA[Meeting place]]></title>
+				<description><![CDATA[Chinsee]]></description>
+				<thumbnail>work/red_cross/gallery/meetingPlace_chinese.png</thumbnail>
+				<largeView type="image" file="work/red_cross/gallery/meetingPlace_chinese.png"/>
+			</item>
+			<item>
+				<title><![CDATA[Volunteer]]></title>
+				<description><![CDATA[Russian]]></description>
+				<thumbnail>work/red_cross/gallery/volunteer_russian.png</thumbnail>
+				<largeView type="image" file="work/red_cross/gallery/volunteer_russian.png"/>
+			</item>
+			<item>
+				<title><![CDATA[Go bag]]></title>
+				<description><![CDATA[Spanish]]></description>
+				<thumbnail>work/red_cross/gallery/goBag_spanish.png</thumbnail>
+				<largeView type="image" file="work/red_cross/gallery/goBag_spanish.png"/>
+			</item>
+			<item>
+				<title><![CDATA[Quiz]]></title>
+				<description><![CDATA[Chinese]]></description>
+				<thumbnail>work/red_cross/gallery/quiz_chinese.png</thumbnail>
+				<largeView type="image" file="work/red_cross/gallery/quiz_chinese.png"/>
+			</item>
+		</gallery>
+	</item>
+</work>

@@ -1,0 +1,11 @@
+﻿<flash_project name="ProXmlv1Project" version="1">
+    <project_file path="./main.fla" filetype="fla" profile="" def_file="true" />
+    <project_file path="./preload.fla" filetype="fla" profile="" />
+    <project_file path="./contacts.fla" filetype="fla" profile="" />
+    <project_file path="./news.fla" filetype="fla" profile="" />
+    <project_file path="./work.fla" filetype="fla" profile="" />
+    <project_file path="./aboutus.fla" filetype="fla" profile="" />
+    <project_file path="./home.fla" filetype="fla" profile="" />
+    <project_file path="./nav.fla" filetype="fla" profile="" />
+    <project_file path="./index.fla" filetype="fla" profile="" />
+</flash_project>

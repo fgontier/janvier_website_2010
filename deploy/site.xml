@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<site title="Frédéric Gontier Portfolio: %PAGE%" menu="true">
+    <page id="index" src="index.swf">
+	<asset id="myBackground" src="images/background.jpg"/>
+	
+        <page id="nav" src="nav.swf" depth="top">
+			<asset id="myLogo" src="images/logo.png"/>
+			<!-- asset id="newsXml" src="xml/news.xml"/ -->
+			<asset id="workXml" src="xml/work.xml"/>
+		
+            <page id="home" title="Home" src="home.swf" menu="true" seo="true">
+				<asset id="homeXml" src="xml/home.xml"/>
+			</page>
+			
+			<page id="aboutus" title="About Us" src="aboutus.swf" menu="true" seo="true">
+				<asset id="aboutXml" src="xml/about.xml"/>
+			</page>
+			
+			<page id="work" title="Work" src="work.swf" menu="true" seo="true">
+				<asset id="workXml" src="xml/work.xml"/>
+			</page>
+			
+			<!-- page id="news" title="News" src="news.swf" menu="true" seo="true">
+				<asset id="newsXml" src="xml/news.xml"/>
+			</page -->
+			
+			<page id="contacts" title="Contacts" src="contacts.swf" menu="true" seo="true">
+				<asset id="contactXml" src="xml/contact.xml"/>
+			</page>
+			
+        </page>
+	</page>
+</site>

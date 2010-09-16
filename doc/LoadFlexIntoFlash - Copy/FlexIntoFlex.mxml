@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" applicationComplete="init()" width="550" height="400">
+  <mx:Script>
+    <![CDATA[
+    import mx.core.UIComponent;
+    
+    private var __loadedClip:MovieClip;     // loaded content cast as MovieClip
+	   private var __loader:Loader;            // reference to external asset loader
+    private var __application:*;            // reference to loaded application (<mx:Application>)
+    
+    private var __myReference:UIComponent = new UIComponent();
+    
+	   private function init():void
+	   {
+	     addChild(__myReference);
+	     
+	      __loadedClip       = null;
+	      __loader           = new Loader();
+      var info:LoaderInfo = __loader.contentLoaderInfo;
+
+      info.addEventListener(Event.COMPLETE        , __onComplete);
+      info.addEventListener(IOErrorEvent.IO_ERROR , __onIOError );
+
+      __loadApp("myFlexApp.swf");
+	   }
+	   
+	   private function __loadApp(_file:String):void
+	   {
+      var urlRequest:URLRequest = new URLRequest(_file);
+			
+      var loaderContext:LoaderContext = new LoaderContext();
+      loaderContext.applicationDomain = new ApplicationDomain(); // not strictly required, but replace with this and observe the results - ApplicationDomain.currentDomain;
+			
+      __loader.load(urlRequest, loaderContext);
+    }
+
+	   private function __onComplete(_evt:Event):void
+    { 
+      __myReference.addChild(__loader);
+
+      __loadedClip = __loader.content as MovieClip;
+      __loadedClip.addEventListener(Event.ENTER_FRAME, __onFlexAppLoaded);
+    }
+
+    private function __onFlexAppLoaded(_evt:Event):void
+    {
+      if( __loadedClip.application != null )
+      {
+        __loadedClip.removeEventListener(Event.ENTER_FRAME, __onFlexAppLoaded);
+ 
+        __application = __loadedClip.application;
+
+        __application.addEventListener("FlexButtonClick", __onClick);
+      }
+	   }
+
+    private function __cleanup():void
+    {
+      var info:LoaderInfo = __loader.contentLoaderInfo;
+
+      info.removeEventListener(Event.COMPLETE, __onComplete);
+      info.removeEventListener(IOErrorEvent.IO_ERROR , __onIOError );
+    }
+
+    private function __onIOError(_evt:IOErrorEvent):void
+    {
+      trace( "blah, blah, blah ... too bad" );
+	   }
+
+    private function __onInitialize(_e:Event):void
+    {
+      __cleanup();
+    }
+
+    private function __onClick(_evt:Event):void
+    {
+      __application.__myButton__.enabled = false;
+      __application.myFunction();
+      
+      __loadedClip.visible        = false;
+      __loaderAppButton__.visible = true;
+ 	  }
+ 	  
+ 	  private function __onLoaderAppButtonClicked():void
+ 	  {
+ 	    __loadedClip.visible               = true;
+ 	    __application.__myButton__.enabled = true;
+ 	  }
+	   
+    ]]>
+  </mx:Script>
+  <mx:Button x="363" y="32" label="Button in Loader" id="__loaderAppButton__" visible="false" click="__onLoaderAppButtonClicked()"/>
+</mx:Application>

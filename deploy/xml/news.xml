@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<rss version="2.0">
+	<channel>
+		<title>Pro XML News</title>
+		<link>your link</link>
+		<description>your description</description>
+		<language>en-us</language>
+		<pubDate>Tue, 10 Jun 2003 04:00:00 GMT</pubDate>
+		<lastBuildDate>Tue, 10 Jun 2003 09:41:01 GMT</lastBuildDate>
+		<item>
+			<title><![CDATA[Lorem ipsum dolor sit amet]]></title>
+ 			<link>http://www.flashden.net/user/triworks</link>
+			<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ut enim id tellus sollicitudin lobortis. Phasellus aliquam, lectus ac vestibulum vestibulum, nisi enim dapibus elit, sit amet hendrerit metus ante rutrum pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed nec risus vel dolor fermentum porttitor. Vivamus tempus hendrerit purus. Praesent at metus id ipsum ultrices mollis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc facilisis sodales orci. Praesent quis sapien in nisi imperdiet blandit. Fusce bibendum sapien id odio. Donec scelerisque ligula elementum pede. Sed arcu mauris, aliquet a, dictum nec, suscipit sed, nulla. Curabitur tortor velit, consectetur a, dapibus vitae, aliquam sollicitudin, dolor. Phasellus elit. Nunc lectus orci, mattis in, iaculis a, accumsan non, lacus. Duis porttitor augue a lacus. Aenean cursus, lectus at tincidunt euismod, lectus lacus porttitor erat, a volutpat turpis odio in urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam pellentesque varius lorem.]]></description>
+			<pubDate>Mon, 01 Dec 2008 00:00:00 GMT</pubDate>
+			<guid></guid>
+			<image>images/news_image.jpg</image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Mauris neque risus]]></title>
+ 			<link>http://www.flashden.net/user/triworks</link>
+			<description><![CDATA[Mauris neque risus, congue convallis, malesuada sed, venenatis non, massa. Sed vitae tortor. Aliquam erat volutpat. Integer feugiat orci a purus. Ut quis leo. Nunc varius auctor nisi. Cras egestas venenatis leo. Suspendisse in est eget nulla vehicula euismod. Aliquam hendrerit felis non justo. Nulla facilisi. Pellentesque tempor felis at enim. Etiam nisi orci, mollis eget, auctor nec, imperdiet pharetra, nisl. Fusce eu massa sit amet enim sodales interdum. Donec id nunc. Donec aliquam quam nec justo. Pellentesque nunc purus, mollis quis, eleifend quis, laoreet ut, nulla. Mauris metus elit, accumsan sit amet, congue ac, suscipit non, purus. Pellentesque non neque ac leo viverra semper. Quisque posuere iaculis velit.]]></description>
+			<pubDate>Tue, 02 Dec 2008 01:01:01 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Etiam justo lorem]]></title>
+ 			<link></link>
+			<description><![CDATA[Etiam justo lorem, suscipit sed, eleifend a, vulputate id, turpis. Sed vulputate consectetur neque. Aliquam in turpis nec ante faucibus scelerisque. Phasellus eget lorem. Pellentesque tempor vestibulum metus. Integer volutpat pretium lorem. Aliquam eros tellus, rutrum sit amet, eleifend non, rhoncus id, sem. Nunc in purus sed nulla venenatis eleifend. Phasellus lacinia aliquet ante. Curabitur malesuada, quam vel venenatis consectetur, elit lorem volutpat dui, vitae ultrices est lorem eget orci. Maecenas justo nunc, facilisis vitae, vestibulum vitae, dictum vel, arcu. Nulla lectus. Aenean nunc urna, blandit vitae, adipiscing sed, pellentesque vel, quam. Nullam mauris. Mauris velit sapien, eleifend sed, iaculis vel, interdum ultrices, augue. Sed eu arcu vel orci tempus sodales. Maecenas erat ante, commodo id, dignissim eu, dignissim sit amet, augue. Aliquam non elit ut ipsum tristique facilisis. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Integer at tellus]]></title>
+ 			<link></link>
+			<description><![CDATA[Integer at tellus. Donec egestas faucibus metus. Sed elementum hendrerit urna. Sed mauris nulla, pellentesque id, porta consectetur, auctor eu, magna. Quisque purus nibh, lacinia at, egestas quis, sagittis quis, ligula. Quisque elementum, ipsum vel convallis ornare, purus purus molestie neque, et accumsan nulla eros vitae lacus. In lorem nulla, pretium eget, lacinia eget, ullamcorper ac, diam. Praesent vel orci ut massa iaculis sodales. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dictum purus non ligula. Aenean ornare, sem in dapibus interdum, sapien purus accumsan tortor, sit amet hendrerit est velit id pede.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image>images/news_image.jpg</image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Suspendisse iaculis molestie libero]]></title>
+ 			<link></link>
+			<description><![CDATA[Suspendisse iaculis molestie libero. Pellentesque felis ipsum, consectetur placerat, congue vel, ultricies ac, justo. Praesent sed tortor a tortor porta dignissim. Aliquam erat volutpat. Morbi vestibulum sapien varius lacus faucibus commodo. Suspendisse volutpat, ligula commodo malesuada laoreet, mauris risus viverra odio, vel ullamcorper massa neque eget nunc. Suspendisse pharetra, augue quis laoreet rutrum, dui libero varius sapien, faucibus volutpat dolor nisi quis orci. Duis nisl nisi, luctus eget, consectetur et, molestie non, tellus. Nullam laoreet ligula. Donec ipsum purus, iaculis at, sagittis in, egestas ut, ligula.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Nam pharetra risus ac nulla ullamcorper commodo]]></title>
+ 			<link></link>
+			<description><![CDATA[Nam pharetra risus ac nulla ullamcorper commodo. Aenean justo nisi, tincidunt at, facilisis sit amet, venenatis vel, mi. Nullam eu magna. Vestibulum odio ligula, dignissim sed, accumsan congue, congue eu, felis. Proin in ligula nec ipsum egestas accumsan. Nulla facilisi. Mauris velit est, porttitor nec, aliquam ut, ornare eu, tortor. Nunc sed turpis. Integer ut tortor. Maecenas commodo neque non justo. Nullam tempus elementum purus. Nullam ut odio. Pellentesque tincidunt, odio volutpat varius egestas, pede purus aliquet metus, ut tempor risus metus in mauris. Donec id augue. ]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Aenean ullamcorper]]></title>
+ 			<link></link>
+			<description><![CDATA[Aenean ullamcorper, dui in fringilla tincidunt, dui eros ultrices elit, ut tincidunt eros leo eu velit. Sed suscipit, mi sit amet accumsan pellentesque, justo lacus suscipit dolor, vel commodo orci est ac est. Cras fermentum, quam id adipiscing auctor, ipsum est egestas lorem, rutrum consectetur turpis enim at sapien. Nulla vel dui. Donec tempus ullamcorper lorem. Nunc blandit semper purus. Phasellus libero. Praesent vulputate nisi id est euismod molestie. Quisque gravida, turpis et euismod venenatis, libero nibh adipiscing diam, ut volutpat mauris urna a nisl. Mauris convallis. Aliquam cursus tellus ac felis. Pellentesque sit amet sapien condimentum massa porta lobortis. Nunc hendrerit tortor at mi. Sed dictum mi quis mauris. Proin aliquam, est non imperdiet vehicula, lorem lectus mattis eros, a faucibus urna mi eu ligula.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image>images/news_image.jpg</image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Proin ut odio non ante adipiscing tristique]]></title>
+ 			<link></link>
+			<description><![CDATA[Proin ut odio non ante adipiscing tristique. Fusce non justo auctor quam sollicitudin sollicitudin. Etiam elit purus, congue vel, semper gravida, ullamcorper a, purus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed rhoncus arcu in velit. Sed diam. Duis arcu. Praesent nec nisi eu enim bibendum interdum. Proin in mauris. Nam volutpat tempor augue. Nunc ac nisl quis augue congue posuere. Morbi volutpat arcu eu nunc. Donec tristique elementum leo. Morbi libero. Curabitur consectetur nunc non lorem fermentum vulputate.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Integer est]]></title>
+ 			<link></link>
+			<description><![CDATA[Integer est. Morbi vitae est. Cras condimentum, diam a cursus convallis, justo lacus feugiat sem, eu ultrices tortor magna vel orci. In hendrerit purus sed nulla. Suspendisse semper rhoncus est. Donec tincidunt, est non convallis placerat, ligula enim vulputate justo, a lobortis urna dolor vel sapien. Pellentesque mattis volutpat pede. Maecenas consequat, urna non aliquet scelerisque, lectus neque elementum velit, a adipiscing nibh libero eget augue. Proin suscipit lacus eget justo. Vivamus purus urna, molestie a, tempor eu, bibendum at, neque. Nulla arcu metus, pulvinar vitae, rutrum eu, pharetra consequat, nibh. Nam ligula.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Praesent dictum velit eget dolor]]></title>
+ 			<link></link>
+			<description><![CDATA[Praesent dictum velit eget dolor. Nunc nulla neque, adipiscing sit amet, pharetra sed, rutrum non, ante. Nam sagittis dui a velit. Ut consectetur dapibus pede. Praesent elementum viverra elit. Suspendisse lacinia. Quisque eu diam. Praesent eu augue. Integer rutrum quam. Vivamus bibendum dui at odio. Proin dapibus mollis ipsum. Nulla interdum imperdiet augue. Donec egestas. Pellentesque nulla lorem, imperdiet et, sagittis id, tincidunt id, odio. Curabitur ut augue. Nullam iaculis ultrices magna.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+		
+		<item>
+			<title><![CDATA[Etiam sed massa]]></title>
+ 			<link></link>
+			<description><![CDATA[Etiam sed massa. Pellentesque ipsum erat, pharetra ut, egestas non, egestas ac, pede. Pellentesque feugiat venenatis lacus. Pellentesque porttitor purus ac lectus aliquet pharetra. Nam magna diam, accumsan non, hendrerit vel, porttitor et, est. Fusce non felis. In volutpat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas suscipit, magna a mollis dignissim, sapien nunc auctor pede, ac suscipit velit tellus nec turpis. Maecenas vitae libero. Nam massa purus, tempus eu, congue sit amet, facilisis sit amet, lacus. Etiam rhoncus.]]></description>
+			<pubDate>Wed, 03 Dec 2008 02:02:02 GMT</pubDate>
+			<guid></guid>
+			<image></image>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,106 @@
+<html>
+<head>
+	<title>Interview</title>
+	<script type="text/javascript" src="ufo.js"></script>
+	<style type="text/css">
+		body { margin: 50px; font:12/18px Arial; }
+		h2 { font-weight: normal; color: #C00; }
+		
+		
+		.rollover { 
+  position:relative; 
+  font-family: arial;
+  background: #CCCCCC;
+  white-space: nowrap;
+  display: block;
+  width: 320px;
+  height: 22px;
+  margin: 0; 
+  margin-bottom: 2px;  
+  xborder: 1px solid black;
+  }
+  
+.rollover a {
+  display: block;
+  font-size: 12px;
+  width: 320px;
+  height: 22px;
+  display: block;
+  float: left;
+  color: white;
+  text-decoration: none;
+  xborder: 1px solid black;
+}
+
+.rollover a:hover {
+  background:#CC0000;
+}
+
+
+* html a:hover {visibility:visible}
+
+.rollover span {
+  color:#000000;
+  position: absolute;
+  left: 10px;
+  top: 2px;
+  margin: 0px;
+  padding: 0px;
+  cursor: pointer;
+  width: 300px;
+  height: 16px;
+  text-align: left;
+}
+
+.rollover a:hover span {
+  color: #FFFFFF;
+  }
+		
+		
+		
+	</style>
+</head>
+
+<body>
+
+
+	<h2>Interview</h2>
+	
+	<div id="player"></div>
+
+	<br />
+	
+	
+	<div class="rollover"><a href="javascript:playMovie('Interview_low.flv')" title="Interview low."><span>Interview low bandwidth.</span></a></div>
+
+    <div class="rollover"><a href="javascript:playMovie('Interview_high.flv')" title="Interview high."><span>Interview high bandwidth.</span></a></div>
+	
+	
+	
+	
+	<!--
+	<div>
+	<ul>
+		<li><a href="javascript:playMovie('Interview_low.flv')">Interview low. </a></li>
+		<li><a href="javascript:playMovie('Interview_high.flv')">Interview high. </a></li>
+	</ul>
+	</div>
+	-->
+
+
+	<script type="text/javascript">
+		function playMovie(file) {
+			var FO = { 	movie:"flvplayer.swf", 
+						width:"320px", 
+						height:"260px", 
+						majorversion:"7", 
+						build:"0", 
+						bgcolor:"#FFFFFF",
+						flashvars:"file="+file+"&autoStart=true" };
+			UFO.create(FO, 'player');
+		}
+		playMovie('Interview_high.flv');
+	</script>
+
+</body>
+</html>

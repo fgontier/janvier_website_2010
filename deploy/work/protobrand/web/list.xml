@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<lists>
+	<clientList>
+		<client>Leerink Swann</client>
+		<client>Gather Inc</client>
+		<client>Haemonetics</client>
+		<client>Symmons</client>
+<!--		<client>Novell</client>		-->
+		<client>hopeFound</client>
+		<client>Dunkin’ Brands</client>
+		<client>WEGOhealth</client>
+		<client>Wentworth Inst. of Technology</client>
+		<client>Humanscale</client>
+		<client>Siemens</client>
+		<client>AIGA</client>
+		<client>Palm</client>
+		<client>Polaroid</client>
+		<client>Boston Acoustics</client>
+		<client>DMI</client>
+		<client>Houghton Mifflin</client>
+		<client>Vertis Communications</client>
+		<client>MobileQ</client>		
+		<client>TenG</client>	
+		<client>Worldsails</client>			
+		<client>American Express</client>
+		<client>RSA</client>		
+		<client>Lahey Clinic</client>			
+		<client>Synventive</client>	
+		<client>Estee Lauder</client>		
+		<client>Cuervo</client>		
+		<client>Armani Exchange</client>
+		<client>Steinway</client>		
+		<client>Hydro</client>
+		<client>Keurig</client>	
+		<client>Bertucci’s</client>	
+	</clientList>
+	<personList>
+		<person>Kristin Andreotes</person> 
+		<person>Bob Curry</person>
+		<person>Jon Craine</person>
+		<!-- <person>Deb Liljegren</person> -->
+		<person>Fred Gontier</person>
+		<!-- <person>Jonathan Stark</person> -->
+		<person>Yuly Mekler</person>
+		<person>Vassia Alaykova</person>
+		<person>Bob Robbins</person>
+		<person>Philip Granof</person>		
+		<!-- <person>Roni Jordan</person> -->
+		<person>Minko Dimov</person>
+		<person>Paul Kroner</person>
+	</personList>		
+</lists>

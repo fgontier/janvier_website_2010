@@ -1,0 +1,17 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Angantyr;Måns;;;
+FN:Måns Angantyr
+ORG:Globalworks Group\, LLC;
+TITLE:President/Chief Technology Officer
+item1.EMAIL;type=INTERNET;type=pref:mans@angantyr.com
+item2.EMAIL;type=INTERNET:m.angantyr@globalworks.com
+item3.EMAIL;type=INTERNET:mans.angantyr@gmail.com
+TEL;type=WORK;type=pref:+1 212 252 8800
+TEL;type=WORK;type=FAX:+1-212-252-0002
+TEL;type=HOME:+1 (718) 858-6747
+TEL;type=CELL:+1 (646) 491-1814
+item4.ADR;type=WORK;type=pref:;;220 Fifth Avenue\, 11 floor;New York;NY;10001;USA
+item5.ADR;type=HOME:;;200 Bergen Street;Brooklyn;NY;111217;USA
+BDAY;value=date:1966-07-13
+END:VCARD

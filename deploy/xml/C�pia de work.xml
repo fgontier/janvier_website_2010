@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<work>
+	<title1><![CDATA[work]]></title1>
+	<title2><![CDATA[welcome to our projects]]></title2>
+	<title3><![CDATA[another text]]></title3>
+
+	<item>
+		<title1><![CDATA[Project 1 - Title 1]]></title1>
+		<title2><![CDATA[Project 1 - Title 2]]></title2>
+		<title3><![CDATA[Project 1 - Title 3]]></title3>
+		<description><![CDATA[Project 1 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<small_thumbnail>work/project_01/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/project_01/large_tmb.jpg</large_thumbnail>
+		<url>http://www.flashden.net/user/triworks</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Image 1 - Title]]></title>
+				<description><![CDATA[Image 1 - Description]]></description>
+				<thumbnail>work/project_01/gallery/01_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_01/gallery/01_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 2 - Title]]></title>
+				<description><![CDATA[Image 2 - Description]]></description>
+				<thumbnail>work/project_01/gallery/02_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_01/gallery/02_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 3 - Title]]></title>
+				<description><![CDATA[Image 3 - Description]]></description>
+				<thumbnail>work/project_01/gallery/03_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_01/gallery/03_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Video 1 - Title]]></title>
+				<description><![CDATA[Video 1 - Description]]></description>
+				<thumbnail>work/project_01/gallery/04_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/project_01/gallery/04_vid.flv"/>
+			</item>
+			<item>
+				<title><![CDATA[Video 2 - Title]]></title>
+				<description><![CDATA[Video 2 - Description]]></description>
+				<thumbnail>work/project_01/gallery/05_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/project_01/gallery/05_vid.flv"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[Project 2 - Title 1]]></title1>
+		<title2><![CDATA[Project 2 - Title 2]]></title2>
+		<title3><![CDATA[Project 2 - Title 3]]></title3>
+		<description><![CDATA[Project 2 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<small_thumbnail>work/project_02/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/project_02/large_tmb.jpg</large_thumbnail>
+		<url>http://www.flashden.net/user/triworks</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Image 1 - Title]]></title>
+				<description><![CDATA[Image 1 - Description]]></description>
+				<thumbnail>work/project_02/gallery/01_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_02/gallery/01_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 2 - Title]]></title>
+				<description><![CDATA[Image 2 - Description]]></description>
+				<thumbnail>work/project_02/gallery/02_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_02/gallery/02_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 3 - Title]]></title>
+				<description><![CDATA[Image 3 - Description]]></description>
+				<thumbnail>work/project_02/gallery/03_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_02/gallery/03_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Video 1 - Title]]></title>
+				<description><![CDATA[Video 1 - Description]]></description>
+				<thumbnail>work/project_02/gallery/04_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/project_02/gallery/04_vid.flv"/>
+			</item>
+			<item>
+				<title><![CDATA[Video 2 - Title]]></title>
+				<description><![CDATA[Video 2 - Description]]></description>
+				<thumbnail>work/project_02/gallery/05_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/project_02/gallery/05_vid.flv"/>
+			</item>
+			<item>
+				<title><![CDATA[Video 3 - Title]]></title>
+				<description><![CDATA[Video 3 - Description]]></description>
+				<thumbnail>work/project_02/gallery/06_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/project_02/gallery/06_vid.flv"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[Project 3 - Title 1]]></title1>
+		<title2><![CDATA[Project 3 - Title 2]]></title2>
+		<title3><![CDATA[Project 3 - Title 3]]></title3>
+		<description><![CDATA[Project 3 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<small_thumbnail>work/project_03/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/project_03/large_tmb.jpg</large_thumbnail>
+		<url>http://www.flashden.net/user/triworks</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Image 1 - Title]]></title>
+				<description><![CDATA[Image 1 - Description]]></description>
+				<thumbnail>work/project_03/gallery/01_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_03/gallery/01_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 2 - Title]]></title>
+				<description><![CDATA[Image 2 - Description]]></description>
+				<thumbnail>work/project_03/gallery/02_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_03/gallery/02_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 3 - Title]]></title>
+				<description><![CDATA[Image 3 - Description]]></description>
+				<thumbnail>work/project_03/gallery/03_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_03/gallery/03_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 4 - Title]]></title>
+				<description><![CDATA[Image 4 - Description]]></description>
+				<thumbnail>work/project_03/gallery/04_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_03/gallery/04_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Image 5 - Title]]></title>
+				<description><![CDATA[Image 5 - Description]]></description>
+				<thumbnail>work/project_03/gallery/05_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_03/gallery/05_img.jpg"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[Project 4 - Title 1]]></title1>
+		<title2><![CDATA[Project 4 - Title 2]]></title2>
+		<title3><![CDATA[Project 4 - Title 3]]></title3>
+		<description><![CDATA[Project 4 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<small_thumbnail>work/project_04/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/project_04/large_tmb.jpg</large_thumbnail>
+		<url>http://www.flashden.net/user/triworks</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Image 1 - Title]]></title>
+				<description><![CDATA[Image 1 - Description]]></description>
+				<thumbnail>work/project_04/gallery/01_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_04/gallery/01_img.jpg"/>
+			</item>
+		</gallery>
+	</item>
+	
+	<item>
+		<title1><![CDATA[Project 5 - Title 1]]></title1>
+		<title2><![CDATA[Project 5 - Title 2]]></title2>
+		<title3><![CDATA[Project 5 - Title 3]]></title3>
+		<description><![CDATA[Project 5 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<small_thumbnail>work/project_05/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/project_05/large_tmb.jpg</large_thumbnail>
+		<url>http://www.flashden.net/user/triworks</url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[Image 1 - Title]]></title>
+				<description><![CDATA[Image 1 - Description]]></description>
+				<thumbnail>work/project_05/gallery/01_tmb.jpg</thumbnail>
+				<largeView type="image" file="work/project_05/gallery/01_img.jpg"/>
+			</item>
+			<item>
+				<title><![CDATA[Video 1 - Title]]></title>
+				<description><![CDATA[Video 1 - Description]]></description>
+				<thumbnail>work/project_05/gallery/02_tmb.jpg</thumbnail>
+				<largeView type="video" file="work/project_05/gallery/02_vid.flv"/>
+			</item>
+		</gallery>
+	</item>
+</work>

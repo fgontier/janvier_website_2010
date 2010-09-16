@@ -1,0 +1,50 @@
+﻿<project>
+  <name>Gaia Project 4</name>
+  <language>AS3</language>
+  <player>9</player>
+  <version>3.2.3</version>
+  <tweenMax>11.38</tweenMax>
+  <width>1000</width>
+  <height>600</height>
+  <width100>true</width100>
+  <height100>true</height100>
+  <centerX>false</centerX>
+  <centerY>false</centerY>
+  <bgColor>181D18</bgColor>
+  <fps>30</fps>
+  <uri>file:///C|/Documents%20and%20Settings/Fred/Desktop/version_4</uri>
+  <flashPath>src</flashPath>
+  <publishPath>deploy</publishPath>
+  <classesPath>src/classes</classesPath>
+  <siteXmlPath></siteXmlPath>
+  <classPackage>pages</classPackage>
+  <template>Actionscript</template>
+  <seo>false</seo>
+  <domain>http://www.domain.com/</domain>
+  <modified>1277077454250</modified>
+  <optimizeTypes>
+    <bitmapAsset>true</bitmapAsset>
+    <bitmapSpriteAsset>true</bitmapSpriteAsset>
+    <soundAsset>true</soundAsset>
+    <soundClipAsset>true</soundClipAsset>
+    <netStreamAsset>true</netStreamAsset>
+    <textAsset>true</textAsset>
+    <xmlAsset>true</xmlAsset>
+    <styleSheetAsset>true</styleSheetAsset>
+    <jsonAsset>true</jsonAsset>
+    <byteArrayAsset>false</byteArrayAsset>
+  </optimizeTypes>
+  <publishData>
+    <node label="src" checked="2">
+      <node label="aboutus.fla" icon="flashFileIcon" checked="0" src="aboutus.fla"/>
+      <node label="contacts.fla" icon="flashFileIcon" checked="0" src="contacts.fla"/>
+      <node label="home.fla" icon="flashFileIcon" checked="0" src="home.fla"/>
+      <node label="index.fla" icon="flashFileIcon" checked="0" src="index.fla"/>
+      <node label="nav.fla" icon="flashFileIcon" checked="0" src="nav.fla"/>
+      <node label="news.fla" icon="flashFileIcon" checked="0" src="news.fla"/>
+      <node label="preload.fla" icon="flashFileIcon" checked="0" src="preload.fla"/>
+      <node label="work.fla" icon="flashFileIcon" checked="1" src="work.fla"/>
+      <node label="main.fla" icon="mainFileIcon" checked="0" src="main.fla"/>
+    </node>
+  </publishData>
+</project>

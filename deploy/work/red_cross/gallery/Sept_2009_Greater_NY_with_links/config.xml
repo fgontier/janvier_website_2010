@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<languages assetPath="CDrom_assets">
+	<images>
+		<image xPosition="0" yPosition="0" image="bgd_homePage_1.swf" />
+		<image xPosition="10" yPosition="10" image="redCrossLogo.swf" />
+		<!--<image xPosition="695" yPosition="10" image="READYnewYorkLogo.swf" />-->
+	</images>
+	<buttons>
+		<button xPosition="50" yPosition="320" sound="sound_menu_high_1.mp3" languageFolder="english" linkToSection="section_intro" linkToSubSection="intro" linkToPage="page_1">
+			<image xPosition="-17" yPosition="-20" upColor="0xCA3132" overColor="0xCA3132" downColor="0xCA3132" image="arrow.swf"/> 
+			<copy xPosition="0" yPosition="-30" fontWeight="normal" fontSize="22" upColor="0x000000" overColor="0xBD3D44" downColor="0x000000">English</copy>
+		</button>	
+		<button xPosition="250" yPosition="320" sound="sound_menu_high_1.mp3" languageFolder="spanish" linkToSection="section_intro" linkToSubSection="intro" linkToPage="page_1">
+			<image xPosition="-11" yPosition="-20" upColor="0xCA3132" overColor="0xCA3132" downColor="0xCA3132" image="arrow.swf"/> 
+			<copy xPosition="4" yPosition="-30" fontWeight="normal" fontSize="22" upColor="0x000000" overColor="0xBD3D44" downColor="0x000000">Español</copy>
+		</button>
+		<button xPosition="450" yPosition="320" sound="sound_menu_low_1.mp3" languageFolder="chinese" linkToSection="section_intro" linkToSubSection="intro" linkToPage="page_1">
+		    <image xPosition="-20" yPosition="-20" upColor="0xCA3132" overColor="0xCA3132" downColor="0xCA3132" image="arrow.swf"/>
+			<copy xPosition="-4" yPosition="-30" fontWeight="normal" fontSize="22" upColor="0x000000" overColor="0xBD3D44" downColor="0x000000">中文</copy>
+		</button>
+		<button xPosition="650" yPosition="320" sound="sound_menu_low_1.mp3" languageFolder="russian" linkToSection="section_intro" linkToSubSection="intro" linkToPage="page_1">
+		    <image xPosition="-25" yPosition="-20" upColor="0xCA3132" overColor="0xCA3132" downColor="0xCA3132" image="arrow.swf"/> 
+			<copy xPosition="-8" yPosition="-30" fontWeight="normal" fontSize="22" upColor="0x000000" overColor="0xBD3D44" downColor="0x000000">Pусский</copy>
+		</button>
+	</buttons>
+</languages>

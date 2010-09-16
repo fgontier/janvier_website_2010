@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mx:Application xmlns:mx="http://www.adobe.com/2006/mxml" layout="absolute" applicationComplete="init()">
+
+  <mx:Button x="20" y="20" id="__myButton__" label="A Flex Button" click="dispatchEvent(new Event('FlexButtonClick'))"/>
+
+  <mx:Script>
+    <![CDATA[
+	   private function init():void
+	   {
+	      trace( "flex initialized" );
+	   }
+		
+	   public function myFunction():void
+	   {
+	     trace( "in myFunction" );
+	   }
+    ]]>
+  </mx:Script>
+  
+</mx:Application>

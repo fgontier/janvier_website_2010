@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<home>
+	<title1><![CDATA[]]></title1>
+	<title2><![CDATA[]]></title2>
+	<title3><![CDATA[]]></title3>
+	<!--video>home/homepage_vid.flv</video-->
+	<video></video>
+	<message>
+		<title><![CDATA[]]></title>
+		<description><![CDATA[]]></description>
+		<link><![CDATA[]]></link>
+	</message>
+</home>

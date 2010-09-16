@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<head>
+<script type="text/javascript" src="js/flowplayer-3.1.4.min.js"></script>
+</head>
+
+<body BGCOLOR="#e6e6e6" style="margin-top:0">
+
+<div style="width:954px; border-width:0; border-style:solid; background-color:#ffffff">
+
+<div><img src="images/LBS_top.png" width=954 height=99></div>
+
+<div style="width:906px; height:510px; border-width:thin; border-style:solid; margin-left:auto; margin-right:auto;" id="player2" ></div>
+
+<div><img src="images/lbs_bottom.png" width=954 height=262></div>
+
+</div>
+
+<script>
+
+// setup player 
+flowplayer
+(
+	"player2", "swfs/flowplayer.commercial-3.1.5.swf", 
+	{
+		key: '#$d42138864855c4dc970',
+		// hide rotating buffering animation 
+		buffering : false, 
+  
+		canvas: 
+		{ 
+			backgroundColor: "#ffffff" // customize player background, i.e. the canvas 
+		},
+	
+		// playlist 
+		playlist: [ 
+		{url: 'videos/outro_voice_over.swf', scaling:'fit',  duration:5, autoPlay: true , onFinish: function(){this.getPlugin("play").hide()} },	
+		
+		// SWF file
+		//{url: 'videos/intro.swf', scaling:'fit',  duration:5, autoPlay: true , onFinish: function(){this.getPlugin("play").hide()} },
+		// video
+		//{url: 'videos/LBS_series6_small.mp4', autoBuffering: true },
+		// SWF file
+		{url: 'videos/outro_voice_over.swf?logoPath=videos/%26vcardPath=vcf/vcard.xml', scaling:'fit', duration:10,
+		// remove the play again button
+		onFinish: function(){this.getPlugin("play").hide()}
+		}	
+
+	],
+	
+	// show playlist buttons in controlbar
+	plugins:  {
+		controls: {
+			playlist: false,    // hide next/previous clip button
+			autoHide: "always", 
+			hideDelay: 1000,
+			url: 'swfs/flowplayer.controls-3.1.5.swf'
+		} 
+	}	
+});
+</script>
+</body>
