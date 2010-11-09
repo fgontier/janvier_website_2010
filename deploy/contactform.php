@@ -9,9 +9,9 @@ $senderName		= $_POST['senderName'];
 $senderEmail	= $_POST['senderEmail'];
 $senderMsg		= nl2br($_POST['senderMsg']);
 
-$sitename		= "proxml template v1";
-$to 			= "yourname@yourdomain.com";
-$ToName 		= "your name";
+$sitename		= "frederic gontier portfolio";
+$to 			= "fred.gontier@gmail.com";
+$ToName 		= "frederic gontier";
 
 $date 			= date("m/d/Y H:i:s");
 
