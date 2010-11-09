@@ -178,7 +178,7 @@ package com.proxml{
 			activateMainMenu ();
 			//
 			Gaia.api.afterGoto (onAfterGoto);
-			Gaia.api.afterComplete (onAfterGoto, false, true);
+			Gaia.api.afterComplete (onAfterGoto);
 		}
 		//
 		public function loadWorkXml(){
@@ -406,7 +406,7 @@ package com.proxml{
 		//
 		private function menuItemOut (event:MouseEvent):void {
 			if (event.currentTarget.branch != Gaia.api.getCurrentBranch()) {
-				TweenMax.to (event.currentTarget.labelTxt, 0.5, {tint:0x72A68E, ease:Cubic.easeOut});
+				TweenMax.to (event.currentTarget.labelTxt, 0.5, {tint:0x609EDB, ease:Cubic.easeOut});
 			}
 		}
 		//
@@ -423,7 +423,7 @@ package com.proxml{
 				var btn:MovieClip = buttons[i];
 				if (event.validBranch != btn.branch) {
 					btn.enabled = true;
-					TweenMax.to (btn.labelTxt, 0.5, {tint:0x72A68E, ease:Cubic.easeOut});
+					TweenMax.to (btn.labelTxt, 0.5, {tint:0x609EDB, ease:Cubic.easeOut});
 				}
 				else {
 					TweenMax.to (btn.labelTxt, 0.5, {tint:0xFFFFFF, ease:Cubic.easeOut});

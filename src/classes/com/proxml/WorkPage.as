@@ -196,7 +196,8 @@ package com.proxml{
 				workContent.ourWork.previewMode.navScroller.scrollBar.back.width = 1260;
 				workContent.ourWork.previewMode.navScroller.scrollSlider.width = 60;
 				//
-				workDetailsPicSize = 875;
+				//workDetailsPicSize = 875;
+				workDetailsPicSize = 575;
 			}
 			else {
 				workContent.ourWork.previewMode.navScroller.scrollBar.back.width = 940;
@@ -209,7 +210,8 @@ package com.proxml{
 				workContent.projectGallery.navScroller.scrollBar.back.width = 1155;
 				workContent.projectGallery.navScroller.scrollSlider.width = 60;
 				//
-				projectGalleryPicSize = 1155;
+				//projectGalleryPicSize = 1155;
+				projectGalleryPicSize = 765;	
 			}
 			else {
 				workContent.projectGallery.navScroller.scrollBar.back.width = 765;

@@ -12,7 +12,7 @@
   <centerY>false</centerY>
   <bgColor>181D18</bgColor>
   <fps>30</fps>
-  <uri>file:///C|/Documents%20and%20Settings/Fred/Desktop/version_4</uri>
+  <uri>file:///C|/Users/fgontier/Documents/boulot/janvier/janvier_website_2010</uri>
   <flashPath>src</flashPath>
   <publishPath>deploy</publishPath>
   <classesPath>src/classes</classesPath>
@@ -21,7 +21,7 @@
   <template>Actionscript</template>
   <seo>false</seo>
   <domain>http://www.domain.com/</domain>
-  <modified>1277077454250</modified>
+  <modified>1289236869746</modified>
   <optimizeTypes>
     <bitmapAsset>true</bitmapAsset>
     <bitmapSpriteAsset>true</bitmapSpriteAsset>

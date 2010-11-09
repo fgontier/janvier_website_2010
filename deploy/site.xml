@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <site title="Frédéric Gontier Portfolio: %PAGE%" menu="true">
     <page id="index" src="index.swf">
-	<asset id="myBackground" src="images/background.jpg"/>
+	<asset id="myBackground" src="images/background.gif"/>
 	
         <page id="nav" src="nav.swf" depth="top">
 			<asset id="myLogo" src="images/logo.png"/>
