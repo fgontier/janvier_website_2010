@@ -8,7 +8,7 @@
 		<title1><![CDATA[www.gsabrie.com]]></title1>
 		<title2><![CDATA[Flash web site]]></title2>
 		<title3><![CDATA[]]></title3>
-		<description><![CDATA[XML driven photography web site created using the Gaia Framework, Tweenlite for the animations, Google Analytics and BaseUI for the liquid layout. The full screen photo galeries can be easily updated with an xml file by the photographer.<br><br><font color='#FF0000'>Roles:</font><br>Concept & design<br>AS3 development<br><br><font color='#FF0000'><a href="http://github.com" target="_new">Github source code:</a></font>]]></description>
+		<description><![CDATA[XML driven Gaia Framework photography web site. I used SWFAddress for deeplinking, Tweenlite for animations, BaseUI for the liquid layout,<br>and Google Analytics.<br>The full screen photo galeries can be easily updated by the photographer with an xml file.<br><br><font color='#FF0000'>Roles:</font><br>Concept & design, AS3 development<br>Flash develop</br><br><br><font color='#92BAA3'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new">Github source code:</a></font>]]></description>
 		<small_thumbnail>work/gsabrie/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/gsabrie/large_tmb.jpg</large_thumbnail>
 		<url>http://www.gsabrie.com</url>
@@ -19,7 +19,7 @@
 		<title1><![CDATA[Lenovo]]></title1>
 		<title2><![CDATA[Flash banners]]></title2>
 		<title3><![CDATA[Agency: Capstrat]]></title3>
-		<description><![CDATA[Creation of banners for several Lenovo add campagns.<br>Each banner was resized according to the specifications from the client.<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
+		<description><![CDATA[Banners for several Lenovo add campagns.<br>Each banner was resized according to the specifications from the client.<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
 		<small_thumbnail>work/lenovo/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/lenovo/large_tmb.gif</large_thumbnail>
 		<url></url>
@@ -62,7 +62,7 @@
 		<title1><![CDATA[DataFlux]]></title1>
 		<title2><![CDATA[Flash banners]]></title2>
 		<title3><![CDATA[Agency: Capstrat]]></title3>
-		<description><![CDATA[Creation of banners for DataFlux add campagns.<br>Each link is pulled from a text file in a flash variable (flashVars).<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
+		<description><![CDATA[Banners for DataFlux add campagns.<br>Each links in the banners are dynamically loaded from a text file (flashVars) for quick update.<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
 		<small_thumbnail>work/dataflux/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/dataflux/large_tmb.jpg</large_thumbnail>
 		<url></url>
@@ -87,14 +87,14 @@
 		<title1><![CDATA[The Living Balance Sheet]]></title1>
 		<title2><![CDATA[Flash/FLEX applications]]></title2>
 		<title3><![CDATA[Client: Globalworks]]></title3>
-		<description><![CDATA[Several projects for "The Living Balance Sheet" including a flash billboard communicating with the HTML top menu via javascript on the website, 3 calculators created in Flex and a dynamic implementation of the Flowplayer playlist vith xml files, Mp4 streaming videos and flash movies.<br><br><font color='#FF0000'>Roles:</font><br>AS3 development]]></description>
+		<description><![CDATA[Several projects for "The Living Balance Sheet" including a flash billboard communicating with the HTML top menu via javascript on the website, 3 calculators created in Flex and a dynamic implementation of the Flowplayer playlist vith xml files, Mp4 streaming videos and flash movies.<br><br><font color='#FF0000'>Roles:</font><br>AS3 development<br>Flash Develop]]></description>
 		<small_thumbnail>work/theLivingBalanceSheet/small_tmb.png</small_thumbnail>
 		<large_thumbnail>work/theLivingBalanceSheet/large_tmb.jpg</large_thumbnail>
 		<url></url>
 		<date>2009-01-20</date>
 		<gallery>
 			<item>
-				<title><![CDATA[Mortgage calculator]]></title>
+				<title><![CDATA[401(k) calculator]]></title>
 				<description><![CDATA[Flex application using the amCharts library]]></description>
 				<thumbnail>work/theLivingBalanceSheet/gallery/401k.jpg</thumbnail>
 				<largeView type="url" link="work/theLivingBalanceSheet/gallery/401k/401k.html"/>
