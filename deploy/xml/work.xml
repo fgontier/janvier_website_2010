@@ -3,12 +3,23 @@
 	<title1><![CDATA[]]></title1>
 	<title2><![CDATA[]]></title2>
 	<title3><![CDATA[WORK]]></title3>
-
+	
 	<item>
-		<title1><![CDATA[www.gsabrie.com]]></title1>
+		<title1><![CDATA[optimum3dadventure.com]]></title1>
+		<title2><![CDATA[Flash game and anaglyph images]]></title2>
+		<title3><![CDATA[Agency: Globalworks]]></title3>
+		<description><![CDATA[Ruby website in 2 languages, 2D and 3D (with glasses). Anaglyph images production in Photoshop. Flash game using cue-points embedded in streaming video. <br><br><font color='#ffffff'>Roles:</font><br>Anaglyph images production in photoshop (depth map and displace filter).<br>Flash game concept and codding.<br>Multiple videos encodding for streaming (rtmp) with Adobe Media Encoder.<br>Multiple videos encoding for streaming on iPhone with HandBrake.</br><br>Facebook and Twitter links to post your games's score.]]></description>
+		<small_thumbnail>work/optimum3dadventure/small_tmb.jpg</small_thumbnail>
+		<large_thumbnail>work/optimum3dadventure/large_tmb.jpg</large_thumbnail>
+		<url>http://www.optimum3dadventure.com</url>
+		<date>2010-05-31</date>
+	</item>
+	
+	<item>
+		<title1><![CDATA[gsabrie.com]]></title1>
 		<title2><![CDATA[Flash web site]]></title2>
-		<title3><![CDATA[]]></title3>
-		<description><![CDATA[XML driven Gaia Framework photography web site. I used SWFAddress for deeplinking, Tweenlite for animations, BaseUI for the liquid layout,<br>and Google Analytics.<br>The full screen photo galeries can be easily updated by the photographer with an xml file.<br><br><font color='#FF0000'>Roles:</font><br>Concept & design, AS3 development<br>Flash develop</br><br><br><font color='#92BAA3'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new">Github source code:</a></font>]]></description>
+		<title3><![CDATA[Freelance work]]></title3>
+		<description><![CDATA[XML driven Gaia Framework photography web site. I used SWFAddress for deeplinking, Tweenlite for animations, BaseUI for the liquid layout,<br>and Google Analytics.<br>The full screen photo galeries can be easily updated by the photographer with an xml file.<br><br><font color='#FF0000'>Roles:</font><br>Concept & design, AS3 development<br>Flash develop</br><br><br><font color='#609EDB'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new">GITHUB SOURCE CODE</a></font>]]></description>
 		<small_thumbnail>work/gsabrie/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/gsabrie/large_tmb.jpg</large_thumbnail>
 		<url>http://www.gsabrie.com</url>
@@ -86,7 +97,7 @@
 	<item>
 		<title1><![CDATA[The Living Balance Sheet]]></title1>
 		<title2><![CDATA[Flash/FLEX applications]]></title2>
-		<title3><![CDATA[Client: Globalworks]]></title3>
+		<title3><![CDATA[Agency: Globalworks]]></title3>
 		<description><![CDATA[Several projects for "The Living Balance Sheet" including a flash billboard communicating with the HTML top menu via javascript on the website, 3 calculators created in Flex and a dynamic implementation of the Flowplayer playlist vith xml files, Mp4 streaming videos and flash movies.<br><br><font color='#FF0000'>Roles:</font><br>AS3 development<br>Flash Develop]]></description>
 		<small_thumbnail>work/theLivingBalanceSheet/small_tmb.png</small_thumbnail>
 		<large_thumbnail>work/theLivingBalanceSheet/large_tmb.jpg</large_thumbnail>
@@ -170,9 +181,9 @@
 	</item>
 	
 	<item>
-		<title1><![CDATA[www.protobrand.com]]></title1>
+		<title1><![CDATA[protobrand.com]]></title1>
 		<title2><![CDATA[Flash web site]]></title2>
-		<title3><![CDATA[]]></title3>
+		<title3><![CDATA[Freelance work]]></title3>
 		<description><![CDATA[The experience, portfolio and bio sections are updated with xml files]]></description>
 		<small_thumbnail>work/protobrand/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/protobrand/large_tmb.gif</large_thumbnail>
