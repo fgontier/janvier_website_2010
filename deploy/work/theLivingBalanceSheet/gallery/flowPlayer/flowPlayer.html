@@ -34,14 +34,14 @@ flowplayer
 	
 		// playlist 
 		playlist: [ 
-		{url: 'videos/outro_voice_over.swf', scaling:'fit',  duration:5, autoPlay: true , onFinish: function(){this.getPlugin("play").hide()} },	
+		//{url: 'videos/outro_voice_over.swf', scaling:'fit',  duration:5, autoPlay: true , onFinish: function(){this.getPlugin("play").hide()} },	
 		
 		// SWF file
-		//{url: 'videos/intro.swf', scaling:'fit',  duration:5, autoPlay: true , onFinish: function(){this.getPlugin("play").hide()} },
+		{url: 'videos/intro.swf?logoPath=videos/logo.swf', scaling:'fit',  duration:5, autoPlay: true , onFinish: function(){this.getPlugin("play").hide()} },
 		// video
-		//{url: 'videos/LBS_series6_small.mp4', autoBuffering: true },
+		{url: 'videos/LBS_series6_small.m4v', autoBuffering: true },
 		// SWF file
-		{url: 'videos/outro_voice_over.swf?logoPath=videos/%26vcardPath=vcf/vcard.xml', scaling:'fit', duration:10,
+		{url: 'videos/outro_voice_over.swf?logoPath=videos/logo.swf%26vcardPath=vcf/vcard.xml', scaling:'fit', duration:10,
 		// remove the play again button
 		onFinish: function(){this.getPlugin("play").hide()}
 		}	

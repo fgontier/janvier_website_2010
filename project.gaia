@@ -21,7 +21,7 @@
   <template>Actionscript</template>
   <seo>false</seo>
   <domain>http://www.domain.com/</domain>
-  <modified>1295648203630</modified>
+  <modified>1296169583367</modified>
   <optimizeTypes>
     <bitmapAsset>true</bitmapAsset>
     <bitmapSpriteAsset>true</bitmapSpriteAsset>
@@ -42,8 +42,8 @@
       <node label="index.fla" icon="flashFileIcon" checked="0" src="index.fla"/>
       <node label="nav.fla" icon="flashFileIcon" checked="0" src="nav.fla"/>
       <node label="news.fla" icon="flashFileIcon" checked="0" src="news.fla"/>
-      <node label="preload.fla" icon="flashFileIcon" checked="0" src="preload.fla"/>
-      <node label="work.fla" icon="flashFileIcon" checked="1" src="work.fla"/>
+      <node label="preload.fla" icon="flashFileIcon" checked="1" src="preload.fla"/>
+      <node label="work.fla" icon="flashFileIcon" checked="0" src="work.fla"/>
       <node label="main.fla" icon="mainFileIcon" checked="0" src="main.fla"/>
     </node>
   </publishData>

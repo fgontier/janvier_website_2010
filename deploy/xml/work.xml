@@ -6,9 +6,9 @@
 	
 	<item>
 		<title1><![CDATA[optimum3dadventure.com]]></title1>
-		<title2><![CDATA[Flash game and anaglyph images]]></title2>
+		<title2><![CDATA[Flash game & anaglyph pics]]></title2>
 		<title3><![CDATA[Agency: Globalworks]]></title3>
-		<description><![CDATA[Ruby website in 2 languages, 2D and 3D (with glasses). Anaglyph images production in Photoshop. Flash game using cue-points embedded in streaming video. <br><br><font color='#ffffff'>Roles:</font><br>Anaglyph images production in photoshop (depth map and displace filter).<br>Flash game concept and codding.<br>Multiple videos encodding for streaming (rtmp) with Adobe Media Encoder.<br>Multiple videos encoding for streaming on iPhone with HandBrake.</br><br>Facebook and Twitter links to post your games's score.]]></description>
+		<description><![CDATA[Ruby website in 2 languages, 2D and 3D (with glasses).<br>Flash game using streaming video with embedded cue-points.<br><br><font color='#ffffff'>Roles:</font><li>Anaglyph images production in Photoshop.<li>Flash background sounds and animations.<li>Flash game concept and codding.<li>Streaming videos encodding (rtmp) in Adobe Media Encoder.<li>Streaming videos encoding for iPhone in HandBrake.<li>Facebook and Twitter dynamic links to post games's score.<li>Flowplayer setup.<li>Google Analytics setup]]></description>
 		<small_thumbnail>work/optimum3dadventure/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/optimum3dadventure/large_tmb.jpg</large_thumbnail>
 		<url>http://www.optimum3dadventure.com</url>
@@ -19,7 +19,7 @@
 		<title1><![CDATA[gsabrie.com]]></title1>
 		<title2><![CDATA[Flash web site]]></title2>
 		<title3><![CDATA[Freelance work]]></title3>
-		<description><![CDATA[XML driven Gaia Framework photography web site. I used SWFAddress for deeplinking, Tweenlite for animations, BaseUI for the liquid layout,<br>and Google Analytics.<br>The full screen photo galeries can be easily updated by the photographer with an xml file.<br><br><font color='#FF0000'>Roles:</font><br>Concept & design, AS3 development<br>Flash develop</br><br><br><font color='#609EDB'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new">GITHUB SOURCE CODE</a></font>]]></description>
+		<description><![CDATA[Dynamic XML driven Gaia Framework photography web site.<br>XML accordion menu implementation.<br><br><font color='#ffffff'>Roles:</font><li>Comps design in Photoshop.<li>AS3 development in Flash Develop<li>Liquid layout with BaseUI Framework.<li>Flash animation with Tweenlite.<li>Full screen flash photo galeries implementation.<li>Google Analytics setup.<li>Source code on<font color='#609EDB'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new"> GITHUB</a></font>]]></description>
 		<small_thumbnail>work/gsabrie/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/gsabrie/large_tmb.jpg</large_thumbnail>
 		<url>http://www.gsabrie.com</url>
@@ -30,7 +30,7 @@
 		<title1><![CDATA[Lenovo]]></title1>
 		<title2><![CDATA[Flash banners]]></title2>
 		<title3><![CDATA[Agency: Capstrat]]></title3>
-		<description><![CDATA[Banners for several Lenovo add campagns.<br>Each banner was resized according to the specifications from the client.<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
+		<description><![CDATA[Set of flash banners for several Lenovo add campagns.<br>Banners resized according to publisher specifications.<br><br><font color='#ffffff'>Roles:</font><li>Flash CS4 development<li>Graphic assets optimisation in Photoshop.]]></description>
 		<small_thumbnail>work/lenovo/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/lenovo/large_tmb.gif</large_thumbnail>
 		<url></url>
@@ -70,10 +70,21 @@
 	</item>
 
 	<item>
+		<title1><![CDATA[Globalworks.com]]></title1>
+		<title2><![CDATA[Flash web site]]></title2>
+		<title3><![CDATA[Agency: Globalworks]]></title3>
+		<description><![CDATA[Dynamic XML driven flash website prototype.<br>Company's portfolio showing images, flash banners and videos for each section.<br><br><font color='#ffffff'>Roles:</font><li>AS3 development in Flash Develop<li>Externalization of assets in xml files.<li>Flash animation with Tweenlite library.<li>Loading management with QueueLoader library.<li>Text animation with FlashEff2 library.<li>Wave transition with FlashEff2 library.<li>Source code on<font color='#609EDB'><a href="https://github.com/fgontier/GW_flash_teaser" target="_new"> GITHUB</a></font>]]></description>
+		<small_thumbnail>work/globalworks_website/small_tmb.gif</small_thumbnail>
+		<large_thumbnail>work/globalworks_website/large_tmb.jpg</large_thumbnail>
+		<url>work/globalworks_website/gallery/index.html</url>
+		<date>2010-05-31</date>
+	</item>
+	
+	<item>
 		<title1><![CDATA[DataFlux]]></title1>
 		<title2><![CDATA[Flash banners]]></title2>
 		<title3><![CDATA[Agency: Capstrat]]></title3>
-		<description><![CDATA[Banners for DataFlux add campagns.<br>Each links in the banners are dynamically loaded from a text file (flashVars) for quick update.<br><br><font color='#FF0000'>Roles:</font><br>Flash CS4 development]]></description>
+		<description><![CDATA[Set of flash banners for DataFlux add campagns.<br>Each links in the banners are dynamically loaded from a text file (flashVars) for quick update.<br><br><font color='#ffffff'>Roles:</font><li>Flash CS4 development<li>Graphic assets optimisation in Photoshop.]]></description>
 		<small_thumbnail>work/dataflux/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/dataflux/large_tmb.jpg</large_thumbnail>
 		<url></url>
@@ -98,7 +109,7 @@
 		<title1><![CDATA[The Living Balance Sheet]]></title1>
 		<title2><![CDATA[Flash/FLEX applications]]></title2>
 		<title3><![CDATA[Agency: Globalworks]]></title3>
-		<description><![CDATA[Several projects for "The Living Balance Sheet" including a flash billboard communicating with the HTML top menu via javascript on the website, 3 calculators created in Flex and a dynamic implementation of the Flowplayer playlist vith xml files, Mp4 streaming videos and flash movies.<br><br><font color='#FF0000'>Roles:</font><br>AS3 development<br>Flash Develop]]></description>
+		<description><![CDATA[Several flash projects for "The Living Balance Sheet" web site.<br><br><font color='#ffffff'>Roles:</font><li>Flex programming of 3 calculators using the amChart library.<li>Implementation of a Flowplayer playlist vith xml files, Mp4 streaming videos and flash movies.<li>Javacript communication between the flash billboard and the HTML top menu on the website.]]></description>
 		<small_thumbnail>work/theLivingBalanceSheet/small_tmb.png</small_thumbnail>
 		<large_thumbnail>work/theLivingBalanceSheet/large_tmb.jpg</large_thumbnail>
 		<url></url>
@@ -141,7 +152,7 @@
 		<title1><![CDATA[Ernst&Young: Moneyopolis]]></title1>
 		<title2><![CDATA[Flash application]]></title2>
 		<title3><![CDATA[Agency: Globalworks]]></title3>
-		<description><![CDATA[A site created for children in grades 6-8 to teach basic financial planning concepts, providing tools and programs to assist the education community in enhancing basic skills in math, financial planning, decision-making (logic), reading, and computer use. The project centers around a financial planning game based on a five-step process: assessment, goal setting, strategy setting, implementation, and review/adjust. The game incorporates a "virtual city" in which children move through various financial planning centers, managing money and working toward defined goals.]]></description>
+		<description><![CDATA[A site created for children in grades 6-8 to teach basic financial planning concepts, providing tools and programs to assist the education community in enhancing basic skills in math, financial planning, decision-making (logic), reading, and computer use. The game incorporates a "virtual city" in which children move through various financial planning centers, managing money and working toward defined goals.<br><br><font color='#ffffff'>Roles:</font><li>Flash programming.<li>Communication with php database.]]></description>
 		<small_thumbnail>work/moneyopolis/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/moneyopolis/large_tmb.jpg</large_thumbnail>
 		<url></url>
@@ -167,7 +178,7 @@
 			</item>
 			<item>
 				<title><![CDATA[End]]></title>
-				<description><![CDATA[dynamic newspaper]]></description>
+				<description><![CDATA[dynamicaly generated newspaper title]]></description>
 				<thumbnail>work/moneyopolis/gallery/end_tmb.jpg</thumbnail>
 				<largeView type="image" file="work/moneyopolis/gallery/end_img.jpg"/>
 			</item>			
@@ -184,44 +195,18 @@
 		<title1><![CDATA[protobrand.com]]></title1>
 		<title2><![CDATA[Flash web site]]></title2>
 		<title3><![CDATA[Freelance work]]></title3>
-		<description><![CDATA[The experience, portfolio and bio sections are updated with xml files]]></description>
+		<description><![CDATA[Dynamic XML driven flash website. The experience, portfolio and bio sections are updated with xml files for quick update.<br><br><font color='#ffffff'>Roles:</font><li>Comps design in Photoshop.<li>AS2 development in Flash Develop.<li>Externalization of assets in xml files.<li>Sliding menu setup.<li>Preloading of assets.]]></description>
 		<small_thumbnail>work/protobrand/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/protobrand/large_tmb.gif</large_thumbnail>
 		<url>work/protobrand/web/index.html</url>
 		<date>2009-01-20</date>
-		<gallery>
-			<item>
-				<title><![CDATA[Protobrand]]></title>
-				<description><![CDATA[Home page]]></description>
-				<thumbnail>work/protobrand/gallery/protobrand_1_tmb.gif</thumbnail>
-				<largeView type="image" file="work/protobrand/gallery/protobrand_1_img.gif"/>
-			</item>
-			<item>
-				<title><![CDATA[Protobrand]]></title>
-				<description><![CDATA[About us]]></description>
-				<thumbnail>work/protobrand/gallery/protobrand_2_tmb.gif</thumbnail>
-				<largeView type="image" file="work/protobrand/gallery/protobrand_2_img.gif"/>
-			</item>
-			<item>
-				<title><![CDATA[Protobrand]]></title>
-				<description><![CDATA[Portfolio]]></description>
-				<thumbnail>work/protobrand/gallery/protobrand_3_tmb.gif</thumbnail>
-				<largeView type="image" file="work/protobrand/gallery/protobrand_3_img.gif"/>
-			</item>
-			<item>
-				<title><![CDATA[Protobrand]]></title>
-				<description><![CDATA[Bio]]></description>
-				<thumbnail>work/protobrand/gallery/protobrand_4_tmb.gif</thumbnail>
-				<largeView type="image" file="work/protobrand/gallery/protobrand_4_img.gif"/>
-			</item>	
-		</gallery>
 	</item>
 	
 	<item>
 		<title1><![CDATA[American Red Cross]]></title1>
 		<title2><![CDATA[Flash ineractive CDrom]]></title2>
 		<title3><![CDATA[Agency: Globalworks]]></title3>
-		<description><![CDATA[Project 5 - Description - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ipsum eros, fermentum sit amet, condimentum id, fermentum non, quam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed ultrices pede at lorem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus eget mi sit amet ipsum facilisis suscipit. Ut molestie nisl sit amet risus. Curabitur purus tellus, iaculis et, ornare ullamcorper, fermentum in, eros. Nam eget arcu. Aliquam consequat. Nunc vel leo cursus dui semper accumsan. Morbi sed sem ac ipsum tristique feugiat. Mauris pede lacus, porta in, ultrices vel, lacinia nec, mi. Quisque vestibulum gravida nunc. Sed mollis tempus quam. Proin eu lacus. Fusce sit amet elit. Aliquam adipiscing, tortor vel rhoncus malesuada, ante lacus pretium ante, et suscipit diam nibh ac sem.]]></description>
+		<description><![CDATA[Dynamic XML driven flash CD-ROM in 4 languages including several games and quiz.<br><br><font color='#ffffff'>Roles:</font><li>Comps design in Photoshop.<li>AS2 development in Flash Develop.<li>Externalization of assets in xml files.<li>Loading of unicode fonts.]]></description>
 		<small_thumbnail>work/red_cross/small_tmb.png</small_thumbnail>
 		<large_thumbnail>work/red_cross/large_tmb.png</large_thumbnail>
 		<url>work/red_cross/gallery/Sept_2009_Greater_NY_with_links/red_cross.html</url>
@@ -229,37 +214,37 @@
 		<gallery>
 			<item>
 				<title><![CDATA[First aid kit]]></title>
-				<description><![CDATA[English]]></description>
+				<description><![CDATA[English page]]></description>
 				<thumbnail>work/red_cross/gallery/firstAid_english.png</thumbnail>
 				<largeView type="image" file="work/red_cross/gallery/firstAid_english.png"/>
 			</item>
 			<item>
 				<title><![CDATA[Make a plan]]></title>
-				<description><![CDATA[Spanish]]></description>
+				<description><![CDATA[Spanish page]]></description>
 				<thumbnail>work/red_cross/gallery/makeAplan_spanish.png</thumbnail>
 				<largeView type="image" file="work/red_cross/gallery/makeAplan_spanish.png"/>
 			</item>
 			<item>
 				<title><![CDATA[Meeting place]]></title>
-				<description><![CDATA[Chinsee]]></description>
+				<description><![CDATA[Chinese page]]></description>
 				<thumbnail>work/red_cross/gallery/meetingPlace_chinese.png</thumbnail>
 				<largeView type="image" file="work/red_cross/gallery/meetingPlace_chinese.png"/>
 			</item>
 			<item>
 				<title><![CDATA[Volunteer]]></title>
-				<description><![CDATA[Russian]]></description>
+				<description><![CDATA[Russian page]]></description>
 				<thumbnail>work/red_cross/gallery/volunteer_russian.png</thumbnail>
 				<largeView type="image" file="work/red_cross/gallery/volunteer_russian.png"/>
 			</item>
 			<item>
 				<title><![CDATA[Go bag]]></title>
-				<description><![CDATA[Spanish]]></description>
+				<description><![CDATA[Spanish drag and drop game]]></description>
 				<thumbnail>work/red_cross/gallery/goBag_spanish.png</thumbnail>
 				<largeView type="image" file="work/red_cross/gallery/goBag_spanish.png"/>
 			</item>
 			<item>
 				<title><![CDATA[Quiz]]></title>
-				<description><![CDATA[Chinese]]></description>
+				<description><![CDATA[Chinese quiz]]></description>
 				<thumbnail>work/red_cross/gallery/quiz_chinese.png</thumbnail>
 				<largeView type="image" file="work/red_cross/gallery/quiz_chinese.png"/>
 			</item>
