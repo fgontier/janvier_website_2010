@@ -3,12 +3,37 @@
 	<title1><![CDATA[]]></title1>
 	<title2><![CDATA[]]></title2>
 	<title3><![CDATA[WORK]]></title3>
-	
+
+	<item>
+		<title1><![CDATA[Hughes]]></title1>
+		<title2><![CDATA[Flash applications]]></title2>
+		<title3><![CDATA[Agency: Globalworks]]></title3>
+		<description><![CDATA[Flash animations explaining the ActiveQoS system.<br>Made with the Flint particles framework,<br>Greensocks framework (MotionPath, TweenLite).<br>and the SoundFX framework for real time sound visualization.<br><br><font color='#ffffff'>Roles:</font><li>Flash AS3 development]]></description>
+		<small_thumbnail>work/hughes/small_tmb.gif</small_thumbnail>
+		<large_thumbnail>work/hughes/large_tmb.jpg</large_thumbnail>
+		<url></url>
+		<date>2009-01-20</date>
+		<gallery>
+			<item>
+				<title><![CDATA[ActiveQoS 1]]></title>
+				<description><![CDATA[Flint particles framework]]></description>
+				<thumbnail>work/hughes/gallery/ActiveQoS_particles.jpg</thumbnail>
+				<largeView type="flash" file="work/hughes/gallery/ActiveQoS_particles.swf"/>
+			</item>
+			<item>
+				<title><![CDATA[ActiveQoS 2]]></title>
+				<description><![CDATA[SoundFx framework]]></description>
+				<thumbnail>work/hughes/gallery/ActiveQoS_audio.gif</thumbnail>
+				<largeView type="flash" file="work/hughes/gallery/ActiveQoS_audio.swf"/>
+			</item>
+		</gallery>
+	</item>	
+
 	<item>
 		<title1><![CDATA[optimum3dadventure.com]]></title1>
 		<title2><![CDATA[Flash game & anaglyph pics]]></title2>
 		<title3><![CDATA[Agency: Globalworks]]></title3>
-		<description><![CDATA[Ruby website in 2 languages, 2D and 3D (with glasses).<br>Flash game using streaming video with embedded cue-points.<br><br><font color='#ffffff'>Roles:</font><li>Anaglyph images production in Photoshop.<li>Flash background sounds and animations.<li>Flash game concept and codding.<li>Streaming videos encodding (rtmp) in Adobe Media Encoder.<li>Streaming videos encoding for iPhone in HandBrake.<li>Facebook and Twitter dynamic links to post games's score.<li>Flowplayer setup.<li>Google Analytics setup]]></description>
+		<description><![CDATA[Ruby website in 2 languages, 2D and 3D (with glasses).<br>Flash game using streaming video with embedded cue-points.<br><br><font color='#ffffff'>Roles:</font><li>Anaglyph images production in Photoshop.<li>Flash background sounds and animations.<li>Flash game concept and coding.<li>Streaming videos encoding (rtmp) in Adobe Media Encoder.<li>Streaming videos encoding for iPhone in HandBrake.<li>Facebook and Twitter dynamic links to post games's score.<li>Flowplayer setup.<li>Google Analytics setup]]></description>
 		<small_thumbnail>work/optimum3dadventure/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/optimum3dadventure/large_tmb.jpg</large_thumbnail>
 		<url>http://www.optimum3dadventure.com</url>
@@ -19,7 +44,7 @@
 		<title1><![CDATA[gsabrie.com]]></title1>
 		<title2><![CDATA[Flash web site]]></title2>
 		<title3><![CDATA[Freelance work]]></title3>
-		<description><![CDATA[Dynamic XML driven Gaia Framework photography web site.<br>XML accordion menu implementation.<br><br><font color='#ffffff'>Roles:</font><li>Comps design in Photoshop.<li>AS3 development in Flash Develop<li>Liquid layout with BaseUI Framework.<li>Flash animation with Tweenlite.<li>Full screen flash photo galeries implementation.<li>Google Analytics setup.<li>Source code on<font color='#609EDB'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new"> GITHUB</a></font>]]></description>
+		<description><![CDATA[Dynamic XML driven Gaia Framework photography web site.<br>XML accordion menu implementation.<br><br><font color='#ffffff'>Roles:</font><li>Comps design in Photoshop.<li>AS3 development in Flash Develop<li>Liquid layout with BaseUI Framework.<li>Flash animation with Tweenlite.<li>Full screen flash photo galleries implementation.<li>Google Analytics setup.<li>Source code on<font color='#609EDB'><a href="http://github.com/fgontier/gsabrie_website_2010" target="_new"> GITHUB</a></font>]]></description>
 		<small_thumbnail>work/gsabrie/small_tmb.jpg</small_thumbnail>
 		<large_thumbnail>work/gsabrie/large_tmb.jpg</large_thumbnail>
 		<url>http://www.gsabrie.com</url>
@@ -30,38 +55,38 @@
 		<title1><![CDATA[Lenovo]]></title1>
 		<title2><![CDATA[Flash banners]]></title2>
 		<title3><![CDATA[Agency: Capstrat]]></title3>
-		<description><![CDATA[Set of flash banners for several Lenovo add campagns.<br>Banners resized according to publisher specifications.<br><br><font color='#ffffff'>Roles:</font><li>Flash CS4 development<li>Graphic assets optimisation in Photoshop.]]></description>
+		<description><![CDATA[Set of flash banners for several Lenovo add campaigns.<br>Banners resized according to publisher specifications.<br><br><font color='#ffffff'>Roles:</font><li>Flash CS4 development<li>Graphic assets optimization in Photoshop.]]></description>
 		<small_thumbnail>work/lenovo/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/lenovo/large_tmb.gif</large_thumbnail>
 		<url></url>
 		<date>2009-01-20</date>
 		<gallery>
 			<item>
-				<title><![CDATA[Lenovo: Night Vision campagn]]></title>
+				<title><![CDATA[Lenovo: Night Vision campaign]]></title>
 				<description><![CDATA[300x250 - 32KB]]></description>
 				<thumbnail>work/lenovo/gallery/night_vision_tmb.jpg</thumbnail>
 				<largeView type="flash" file="work/lenovo/gallery/night_vision_300x250.swf"/>
 			</item>
 			<item>
-				<title><![CDATA[Lenovo: Identity Lock campagn]]></title>
+				<title><![CDATA[Lenovo: Identity Lock campaign]]></title>
 				<description><![CDATA[180x150 - 32KB]]></description>
 				<thumbnail>work/lenovo/gallery/identity_lock_tmb.gif</thumbnail>
 				<largeView type="flash" file="work/lenovo/gallery/identity_lock_180x150.swf"/>
 			</item>
 			<item>
-				<title><![CDATA[Lenovo: liquid Shield campagn]]></title>
+				<title><![CDATA[Lenovo: liquid Shield campaign]]></title>
 				<description><![CDATA[300x250 - 28KB]]></description>
 				<thumbnail>work/lenovo/gallery/liquid_shield_tmb.jpg</thumbnail>
 				<largeView type="flash" file="work/lenovo/gallery/liquishield_300x250.swf"/>
 			</item>
 			<item>
-				<title><![CDATA[Lenovo: Camera campagn]]></title>
+				<title><![CDATA[Lenovo: Camera campaign]]></title>
 				<description><![CDATA[728x90 - 32KB]]></description>
 				<thumbnail>work/lenovo/gallery/camera_tmb.jpg</thumbnail>
 				<largeView type="flash" file="work/lenovo/gallery/camera_728x90.swf"/>
 			</item>
 			<item>
-				<title><![CDATA[Lenovo: All Power campagn]]></title>
+				<title><![CDATA[Lenovo: All Power campaign]]></title>
 				<description><![CDATA[728x90 - 16KB]]></description>
 				<thumbnail>work/lenovo/gallery/all_power_tmb.gif</thumbnail>
 				<largeView type="flash" file="work/lenovo/gallery/all_power_728x90.swf"/>
@@ -84,7 +109,7 @@
 		<title1><![CDATA[DataFlux]]></title1>
 		<title2><![CDATA[Flash banners]]></title2>
 		<title3><![CDATA[Agency: Capstrat]]></title3>
-		<description><![CDATA[Set of flash banners for DataFlux add campagns.<br>Each links in the banners are dynamically loaded from a text file (flashVars) for quick update.<br><br><font color='#ffffff'>Roles:</font><li>Flash CS4 development<li>Graphic assets optimisation in Photoshop.]]></description>
+		<description><![CDATA[Set of flash banners for DataFlux add campaign.<br>Each links in the banners are dynamically loaded from a text file (flashVars) for quick update.<br><br><font color='#ffffff'>Roles:</font><li>Flash CS4 development<li>Graphic assets optimization in Photoshop.]]></description>
 		<small_thumbnail>work/dataflux/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/dataflux/large_tmb.jpg</large_thumbnail>
 		<url></url>
