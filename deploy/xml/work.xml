@@ -7,8 +7,8 @@
 	<item>
 		<title1><![CDATA[Hughes]]></title1>
 		<title2><![CDATA[Flash applications]]></title2>
-		<title3><![CDATA[Agency: Globalworks]]></title3>
-		<description><![CDATA[Flash animations explaining the ActiveQoS system.<br>Made with the Flint particles framework,<br>Greensocks framework (MotionPath, TweenLite).<br>and the SoundFX framework for real time sound visualization.<br><br><font color='#ffffff'>Roles:</font><li>Flash AS3 development]]></description>
+		<title3><![CDATA[Agency: Globalworks]]></title3>		
+		<description><![CDATA[Several flash projects for Hughes Enterprise and ActiveQos demo..<br><br><font color='#ffffff'>Roles:</font><li>Flash animations explaining the ActiveQoS system. Made with the Flint particles framework, Greensocks framework (MotionPath, TweenLite), and the SoundFX framework for real time sound visualization.<li>XML driven flash billboard for easy update.]]></description>
 		<small_thumbnail>work/hughes/small_tmb.gif</small_thumbnail>
 		<large_thumbnail>work/hughes/large_tmb.jpg</large_thumbnail>
 		<url></url>
@@ -26,6 +26,12 @@
 				<thumbnail>work/hughes/gallery/ActiveQoS_audio.gif</thumbnail>
 				<largeView type="flash" file="work/hughes/gallery/ActiveQoS_audio.swf"/>
 			</item>
+			<item>
+				<title><![CDATA[Hughes Enterprise flash billboard]]></title>
+				<description><![CDATA[XML driven billboard for easy update]]></description>
+				<thumbnail>work/hughes/gallery/enterprise.jpg</thumbnail>
+				<largeView type="url" link="http://enterprise.hughes.com/"/>
+			</item>			
 		</gallery>
 	</item>	
 
